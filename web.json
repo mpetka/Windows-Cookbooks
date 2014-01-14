@@ -1,12 +1,12 @@
 {
   "run_list": [
-		"recipe[git]", 
+		"recipe[windows]", 
 		"recipe[windows_programs::firefox]", 
 		"recipe[windows_programs::dropbox]", 
 		"recipe[windows_programs::7-zip]",
 		"recipe[windows_programs::notepadplusplus]",
 		"recipe[windows_programs::steam]",
-		"recipe[windows_programs::chrome]",
-		"recipe[windows_programs::filezilla]"
+		"recipe[windows_programs::filezilla]",
+		"recipe[windows_programs::git]"
 	]
 }
