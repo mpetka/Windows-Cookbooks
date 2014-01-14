@@ -6,6 +6,7 @@
 		"recipe[windows_programs::7-zip]",
 		"recipe[windows_programs::notepadplusplus]",
 		"recipe[windows_programs::steam]",
-		"recipe[windows_programs::chrome]"
+		"recipe[windows_programs::chrome]",
+		"recipe[windows_programs::filezilla]"
 	]
 }
